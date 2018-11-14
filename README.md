@@ -42,7 +42,7 @@ Ackermann Bounds: https://en.wikipedia.org/wiki/Ackermann_function
     
 Like normal bst, but can handle infinitely large numbers. Memory handling verified using valgrind.
 		
-• ‘N’, ‘+’, ‘>’, ‘–’, ‘S’, ‘P’, 'C' same as above.
+• ‘N’, ‘+’, ‘>’, ‘–’, ‘S’, ‘P’, 'C' same as RBT.
 • ‘U a’ : Print Uncle
 • ‘B a1 a2 a3 ... an’ : Build a new BST whose preorder traversal is a1 a2 ... an
 • ‘L a’ and 'R a' : Left rotate and Right rotate at 'a' respecively
