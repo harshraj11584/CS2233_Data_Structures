@@ -1,5 +1,5 @@
 ## data_structures
-Data Structures in C++
+Some Interesting Data Structures in C++
 
 
 ## 1. Red Black Tree: 
